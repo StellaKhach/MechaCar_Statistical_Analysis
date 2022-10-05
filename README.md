@@ -35,15 +35,19 @@ Attached Below is the output of t-tests.
 #One Sample
 ![One Sample](https://user-images.githubusercontent.com/92186586/194162657-5b1740cd-3e7a-4819-bbee-1c40d93c5c37.png)
 
+As we can see from the output above, the mean falls in the 95% confidence interval. P-Value is greated than alpha. This would form a normal distribution graph. 
+
 #lot 1
 ![Lot 1](https://user-images.githubusercontent.com/92186586/194162693-61d4abd6-371f-4d5e-ba98-a54c759e0b63.png)
+The mean for this also falls within the 95% confidence interval. P value is significantly greater than alpha. 
 
 #lot 2
 ![Lot 2](https://user-images.githubusercontent.com/92186586/194162719-252c710d-d9e1-40e3-8336-83b19ee2341f.png)
+we see that P value is greater than alpha at 0.05. The mean would also fall in the 95% confidence interval.
 
 #lot 3
 ![Lot 3](https://user-images.githubusercontent.com/92186586/194162743-30dc0dba-6635-4962-bad7-a51de3300325.png)
-
+Once again the mean falls within the 95%. However, since P value is less than alpha, we cannot assume that it'll be normal distribution.
 
 
 
