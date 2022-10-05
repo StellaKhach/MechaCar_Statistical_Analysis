@@ -39,15 +39,29 @@ As we can see from the output above, the mean falls in the 95% confidence interv
 
 #lot 1
 ![Lot 1](https://user-images.githubusercontent.com/92186586/194162693-61d4abd6-371f-4d5e-ba98-a54c759e0b63.png)
+
 The mean for this also falls within the 95% confidence interval. P value is significantly greater than alpha. 
 
 #lot 2
 ![Lot 2](https://user-images.githubusercontent.com/92186586/194162719-252c710d-d9e1-40e3-8336-83b19ee2341f.png)
+
 we see that P value is greater than alpha at 0.05. The mean would also fall in the 95% confidence interval.
 
 #lot 3
 ![Lot 3](https://user-images.githubusercontent.com/92186586/194162743-30dc0dba-6635-4962-bad7-a51de3300325.png)
+
 Once again the mean falls within the 95%. However, since P value is less than alpha, we cannot assume that it'll be normal distribution.
 
 
+## Study Design: MechaCar vs Competition
 
+There are multiple things that can influence the performance of Mechcar vs it's competitors. Some of the metrics that I believe would be useful are the cost of the vehicle, the state and city, gas prices within the city, cost of maintenence, the vehicle's MPH and safety. 
+
+1. What metric or metrics are you going to test?
+   As listed above, I would test the cost of the vehicle, the state and city, gas prices within the city, cost of maintenence, the vehicle's MPH and safety.
+2. What is the null hypothesis or alternative hypothesis?
+   The null hypothesis would be that the mean of cost of maintenece is zero. The alternative would be that the mean cost of maintenence is now zero.
+3. What statistical test would you use to test the hypothesis? And why?
+   Multiple linear regression because it would help me use all of the variables provided and see each of their impacts. 
+4. What data is needed to run the statistical test?
+   Data that inclused the fileds listed above with a random sample of over 50. 
