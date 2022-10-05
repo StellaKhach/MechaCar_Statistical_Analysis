@@ -16,3 +16,8 @@ From the outcome above we see that the data seems to fit in normally. The minimu
   We can look at the r squared value and see that it's at .7149. This would indicate a strong correlation and          result in a rather effective method.
   
   ## Summary Statistics on Suspension Coils
+
+Attached below is the summary statistics and lot summary statistics of the suspension coil data. 
+![Lot Summary](https://user-images.githubusercontent.com/92186586/194161056-23db77a8-4dd3-4f37-9468-454e88d2bb99.png)
+
+![total Summary](https://user-images.githubusercontent.com/92186586/194161117-24df11cd-7736-4276-a82e-ce79ac9505fe.png)
