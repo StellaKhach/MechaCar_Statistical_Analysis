@@ -32,7 +32,7 @@ The total does meet the requirements because it is at 62, which is less than 100
 ## T-Tests on Suspension Coils
 
 Attached Below is the output of t-tests.
-
+#One Sample
 ![One Sample](https://user-images.githubusercontent.com/92186586/194162657-5b1740cd-3e7a-4819-bbee-1c40d93c5c37.png)
 
 #lot 1
